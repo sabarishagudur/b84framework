@@ -3,7 +3,7 @@
    <parameter name="grid" value="yes"/>
   <parameter name="gridurl" value="http://localhost:4444"/>
   <parameter name="browser" value="chrome"/>
-  <parameter name="appurl" value="http://www.google.com"/>
+  <parameter name="appurl" value="https://demo.actitime.com/login.do"/>
   <parameter name="ito" value="9"/>
   <parameter name="eto" value="9"/>
     <packages>

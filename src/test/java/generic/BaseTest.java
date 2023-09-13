@@ -28,7 +28,7 @@ public class BaseTest {
 	public final String d_grid="no";
 	public final String d_gridurl="http://localhost:4444";	
 	public final String d_browser="chrome";
-	public final String d_appurl="http://www.google.com";	
+	public final String d_appurl="https://demo.actitime.com/login.do";	
 	public final String d_ito="10";
 	public final String d_eto="10";
 	
