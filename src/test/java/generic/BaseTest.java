@@ -31,6 +31,7 @@ public class BaseTest {
 	public final String d_appurl="https://demo.actitime.com/login.do";	
 	public final String d_ito="10";
 	public final String d_eto="10";
+	public final String xl_path="./data/actiTIME.xlsx";
 	
 	public WebDriver driver;
 	public WebDriverWait wait;
