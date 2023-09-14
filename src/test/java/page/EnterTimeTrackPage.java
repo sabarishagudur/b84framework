@@ -32,4 +32,9 @@ public class EnterTimeTrackPage
 			return false;
 		}
 	}
+	
+	public void clickLogoutLink()
+	{
+		logoutLink.click();
+	}
 }
